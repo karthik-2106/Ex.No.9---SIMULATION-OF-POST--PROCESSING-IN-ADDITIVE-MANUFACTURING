@@ -34,22 +34,26 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![Screenshot 2024-11-04 153651](https://github.com/user-attachments/assets/7720790b-b116-4413-8f93-82a03115a232)
+![WhatsApp Image 2024-11-23 at 10 53 52_ced2f97a](https://github.com/user-attachments/assets/c1d9ef47-1c1e-4b5f-8de1-40dc2f4d8d7f)
 
-![Screenshot 2024-11-04 153657](https://github.com/user-attachments/assets/723040e8-a5a3-4a09-9ea7-37383fe6d62f)
+
+![WhatsApp Image 2024-11-23 at 10 53 52_b1813fed](https://github.com/user-attachments/assets/cec60e7d-11e6-41b4-af11-d5ad046f3d8c)
+
 
 ## UV Curing of 3D printed part
 
-![Screenshot 2024-11-04 153705](https://github.com/user-attachments/assets/ea176a71-3952-4008-9b52-b140a5a4d8ca)
+![WhatsApp Image 2024-11-23 at 10 53 53_11d27339](https://github.com/user-attachments/assets/0579040d-a263-4633-81fe-08ee65e2cc71)
 
-![Screenshot 2024-11-04 153715](https://github.com/user-attachments/assets/f0643907-e007-48de-97b9-6105b66c4055)
+
+![WhatsApp Image 2024-11-23 at 10 53 53_c3c7ff9e](https://github.com/user-attachments/assets/6cdb95c6-56e1-4482-a39e-01a3bb2e3509)
+
 
 
 ## Heat Treatment of 3D printed part
-![Screenshot 2024-11-04 153722](https://github.com/user-attachments/assets/59b272e0-75d7-4f9e-99dd-9f7b613d42c7)
+![WhatsApp Image 2024-11-23 at 10 53 53_0e41e41a](https://github.com/user-attachments/assets/42e8c298-7b37-41f2-8db8-58eed2cca135)
 
+![WhatsApp Image 2024-11-23 at 10 53 53_901ea829](https://github.com/user-attachments/assets/883a84ef-8358-4ca4-889d-5b53f6a596f0)
 
-![Screenshot 2024-11-04 153727](https://github.com/user-attachments/assets/2a67aabe-c7e5-4569-a90f-ff75ed57925f)
 
 ## Output:
 ## Support Removal Process
